@@ -6,7 +6,7 @@ Software Engineering student @ Monash · Founder of LockonAI · AI engineer at M
 
 ### What I'm Building
 
-**[LockonAI](https://lockonai.app/)** - AI tutor for VCE Maths trained on 2,800+ VCAA questions. Generates personalised practice targeting your exact weaknesses using active recall and spaced repetition. Built solo in 30 days.
+**[LockonAI](https://lockonai.app/)** - AI tutor for VCE Maths trained on 2,800+ VCAA questions. Generates personalised practice targeting your exact weaknesses using active recall and spaced repetition. 
 
 **[Focal](https://focal-web-alpha.vercel.app/app)** - Chrome extension built around Kolb's Reflection Cycle and iCanStudy principles. Focus timer, distraction logging, task management, Google Calendar sync. Built to optimise focus for myself.
 
