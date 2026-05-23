@@ -1,6 +1,6 @@
 # Hi 👋 I'm Evan
 
-Software Engineering student @ Monash · Founder of LockonAI · AI engineer at Monash DeepNeuron (Research team) ·Builder 
+Software Engineering student @ Monash · Founder of LockonAI · AI engineer at Monash DeepNeuron (Research team) · Builder 
 
 ---
 
